@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessesInCreatio", "ProcessesInCreatio\ProcessesInCreatio.csproj", "{CBD9307D-B19B-4D93-AB60-30900EDDB5CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBD9307D-B19B-4D93-AB60-30900EDDB5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD9307D-B19B-4D93-AB60-30900EDDB5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD9307D-B19B-4D93-AB60-30900EDDB5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD9307D-B19B-4D93-AB60-30900EDDB5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48969904-60E3-4CD1-8166-E94AEFF71D57}
+	EndGlobalSection
+EndGlobal
